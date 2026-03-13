@@ -119,6 +119,7 @@ Me chamo Leonardo Limas Rosa, tenho 19 anos e sou de Campinas, SP. Concluí o me
 
 ### Estatísticas
 
+<p>
 <img
     align = "left"
     alt = "GitHub Stats"
@@ -134,3 +135,4 @@ Me chamo Leonardo Limas Rosa, tenho 19 anos e sou de Campinas, SP. Concluí o me
     style = "padding: 5px;"
     src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimasrosa&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias"
 />
+</p>
