@@ -113,6 +113,7 @@ Me chamo Leonardo Limas Rosa, tenho 19 anos e sou de Campinas, SP. Concluí o me
     style = "padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
+
 <br/>
 <br/>
 ---
@@ -133,6 +134,6 @@ Me chamo Leonardo Limas Rosa, tenho 19 anos e sou de Campinas, SP. Concluí o me
     alt = "GitHub Stats"
     height = "150"
     style = "padding: 5px;"
-    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimasrosa&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+    src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolimasrosa&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&include_all_commits=true"
 />
 </p>
